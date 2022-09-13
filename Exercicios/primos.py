@@ -1,3 +1,20 @@
-for num in range(1, 50):
-    if (num % num  == 1) and (num % 1 == 1):
-        print('par: {}'.format(num))
+##########################################################################
+dicionario = {}
+def ehPrimo(numero):
+    primo = 0
+    cont = 2
+    if numero > 1:
+        for p in range(2, numero):
+            
+            if (numero % p == 0):
+                return False
+            else:
+                cont +=1
+    if (cont == numero):
+        return True
+##########################################################################
+
+for i in range (1, 501):
+    if(ehPrimo(i)):
+        dicionario[i] = ehPrimo(i)
+print(dicionario)
