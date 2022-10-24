@@ -31,7 +31,7 @@ Curso   | Status
 :----------- | ------:
 Mundo 1      | Finalizado  
 Mundo 2      | Finalizado  
-Mundo 3      | Em andamento  
+Mundo 3      | Finalizado
 
 https://www.cursoemvideo.com/curso/python-3-mundo-1/ [40 horas] <br>
 https://www.cursoemvideo.com/curso/python-3-mundo-2/ [40 horas] <br>
