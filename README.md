@@ -11,7 +11,7 @@
 <br>
 
 <h4 align="center">
-  :construction: Repositorio Mundo-Python :rocket: Em andamento... :construction_worker::warning:
+  :construction: Repositorio Mundo-Python :rocket: Finalizado... :construction_worker::warning:
 </h4>
 
 ### Sobre
